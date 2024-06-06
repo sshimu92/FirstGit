@@ -1,0 +1,12 @@
+purpose of using Git:
+
+source code management in git
+version control management in git
+
+Local Repository: Pc
+Remote Repository: GitHub
+
+
+commands:
+1. git init
+2. 
